@@ -1,0 +1,1 @@
+This project is a website that I made about myself. It includes some facts about me, my hobbies and details about my hobbies. I made my project because I saw a lot of people making websites about themselves and wanted to make one too.I made my project on VS Code using HTML,CSS and JS.Something that I struggles on while making this project was the color scheme and layout.
